@@ -25,7 +25,7 @@ Or just run:
 fcrepo_wrapper &
 ```
 
-# Get this app working on your localhost
+# Get this app working on http://localhost:3000
 
 ```bash
 Clone this app
