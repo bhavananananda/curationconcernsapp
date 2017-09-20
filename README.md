@@ -16,7 +16,7 @@ When running for successive times:
 solr_wrapper &
 ```
 
-# Get the fedora running at http://localhost:8984/solr
+# Get the fedora running at http://localhost:8984/rest
 ```bash
 To specify a different port:
 fcrepo_wrapper -p 8984 --no-jms
